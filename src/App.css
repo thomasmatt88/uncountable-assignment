@@ -1,0 +1,14 @@
+.selectionDiv {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  background-color: #e0e0e0;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.plotsDiv {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
